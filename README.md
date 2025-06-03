@@ -16,8 +16,6 @@ Detect brain tumors in MRI images using the state-of-the-art YOLO (You Only Look
 ![Image 1](./assets/1.jpg)
 ![Image 2](./assets/2.jpg)
 
-</div>
-
 ## ⚙️ Tech Stack
 
 -   📘 Flutter
