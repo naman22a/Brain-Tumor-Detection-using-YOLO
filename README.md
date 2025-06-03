@@ -9,8 +9,6 @@ Detect brain tumors in MRI images using the state-of-the-art YOLO (You Only Look
 -   📊 Model evaluation metrics: Confusion Matrix, Precision, Recall
 -   🖼️ Bounding box visualization on test images
 
--   🛠️ Easy to use via CLI or Jupyter Notebook
-
 ## 📸 Screenshots
 
 ![Image 1](./assets/1.jpg)
